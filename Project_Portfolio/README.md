@@ -4,8 +4,4 @@
 
 You can find a live version at [diogotc.com](https://diogotc.com).
 
-## Frameworks and packages used
 
-- [Zola](https://getzola.org/)
-- [tsparticles](https://github.com/matteobruni/tsparticles)
-- ... and more!
