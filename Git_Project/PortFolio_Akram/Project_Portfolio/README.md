@@ -1,4 +1,3 @@
-# Mohd Akram's Personal Website
+# Diogo Correia's Personal Website
 
-![Website Screenshot]("Git_Project/PortFolio_Akram/Project_Portfolio/Screenshot/Site.png")
-
+![Website Screenshot](https://github.com/diogotcorreia/dtc-website/blob/master/.gh/site_screenshot.png?raw=true)
