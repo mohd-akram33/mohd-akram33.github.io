@@ -1,4 +1,4 @@
 # Mohd Akram's Personal Website
 
-![Website Screenshot]("Git_Project/PortFolio_Akram/Project_Portfolio/Screenshot/Site.png?raw=true")
+![Website Screenshot]("Git_Project/PortFolio_Akram/Project_Portfolio/Screenshot/Site.png")
 
