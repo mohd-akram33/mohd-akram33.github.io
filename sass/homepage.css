@@ -303,7 +303,7 @@
   align-content: center;
 }
 .top-projects .card {
-  width: clamp(50px, 100%, 350px);
+  width: clamp(150px, 300%, 350px);
 }
 .top-projects .card img {
   width: 80px;
