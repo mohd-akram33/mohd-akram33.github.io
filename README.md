@@ -1,3 +1,3 @@
 # Mohd Akram's Portfolio
 
-![Website Screenshot](Screenshot/Site.png).
+![Website Screenshot](Screenshot/Site.png)
